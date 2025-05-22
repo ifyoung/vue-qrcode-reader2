@@ -9,7 +9,7 @@
   "repository": "github:gruhn/vue-qrcode-reader",
   "bugs": "https://github.com/gruhn/vue-qrcode-reader/issues",
   "homepage": "https://gruhn.github.io/vue-qrcode-reader",
-  "main": "dist/VueQrcodeReader.common.js",
+  "main": "dist/VueQrcodeReader.umd.min.js",
   "unpkg": "dist/VueQrcodeReader.umd.min.js",
   "keywords": [
     "vue",
